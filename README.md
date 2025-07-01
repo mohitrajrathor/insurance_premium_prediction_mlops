@@ -2,12 +2,6 @@
 
 A simple ML project to predict insurance premiums based on a person's health and demographic info.
 
-## 🔗 Live App
-
-[Open Website](https://insurance-premium-price-prediction.onrender.com/)
-
-![](https://github.com/mohitrajrathor/Insurance-Premium-Prediction-cicd/blob/main/static/img/Insurance%20Premium%20Prediction.gif)
-
 ## 📊 Dataset
 
 [Insurance Premium Dataset on Kaggle](https://www.kaggle.com/noordeen/insurance-premium-prediction)

@@ -19,7 +19,7 @@ A simple ML project to predict insurance premiums based on a person's health and
 
 ```bash
 git clone https://github.com/mohitrajrathor/insurance_premium_prediction_mlops.git
-cd Insurance-Premium-Prediction-cicd
+cd insurance_premium_prediction_mlops
 
 conda create -p venv python=3.8 -y
 conda activate venv

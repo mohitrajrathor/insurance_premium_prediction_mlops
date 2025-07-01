@@ -13,7 +13,7 @@ A simple ML project to predict insurance premiums based on a person's health and
 - Flask
 - DVC
 - Pytest / Tox
-- Docker (optional)
+- Docker
 
 ## 🚀 How to Run
 
